@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <title>WebBlox – Dark Logo</title>
+  <desc>WebBlox horizontal logo on dark navy background.</desc>
+  <rect width="400" height="120" fill="#042C53"/>
+  <rect x="30" y="65" width="30" height="30" rx="5" fill="#378ADD"/>
+  <rect x="50" y="45" width="30" height="30" rx="5" fill="#85B7EB"/>
+  <rect x="70" y="25" width="30" height="30" rx="5" fill="#B5D4F4"/>
+  <text x="118" y="79" font-size="52" font-weight="600" font-family="'Inter','Helvetica Neue',Arial,sans-serif" fill="#ffffff">Web<tspan fill="#85B7EB">Blox</tspan></text>
+</svg>

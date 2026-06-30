@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 108" width="116" height="108">
+  <title>WebBlox – Icon</title>
+  <desc>WebBlox standalone icon: three ascending blue blocks in a staircase pattern.</desc>
+  <rect x="8"  y="56" width="44" height="44" rx="7" fill="#185FA5"/>
+  <rect x="36" y="32" width="44" height="44" rx="7" fill="#378ADD"/>
+  <rect x="64" y="8"  width="44" height="44" rx="7" fill="#85B7EB"/>
+</svg>
