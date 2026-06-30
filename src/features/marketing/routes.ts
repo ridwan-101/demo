@@ -1,11 +1,9 @@
 import type { RouteRecordRaw } from 'vue-router'
 
-import DefaultLayout from '@/shared/layouts/DefaultLayout.vue'
-
 export const marketingRoutes: RouteRecordRaw[] = [
   {
     path: '/',
-    component: DefaultLayout,
+    component: () => import('@/features/marketing/layouts/MarketingLayout.vue'),
     children: [
       {
         path: '',
